@@ -12,6 +12,8 @@ title: Obsidian
 - 다양한 플러그인 제공
 - 오랜 적응 시간 필요
 
+![](https://obsidian.md/images/screenshot-1.0-hero-combo.png)
+
 
 
 # 추천 플러그인
