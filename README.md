@@ -9,3 +9,4 @@
 
 **문서 작성 도구(LLM 통합)**
 - [obsidian](docs_edit_obsidian.md)
+- [notion](notion.md)
