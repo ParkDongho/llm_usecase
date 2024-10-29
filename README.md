@@ -4,7 +4,7 @@
 
 - [chatgpt](chatgpt.md) 
 - [github copilot](github_copilot.md) : AI 기반 코드 자동 완성 도구
-- [semantic_scholar](semantic_scholar.md) : AI 기반 학술 데이터 베이스
+- [semantic scholar](semantic_scholar.md) : AI 기반 학술 데이터 베이스
 
 
 **문서 작성 도구(LLM 통합)**
