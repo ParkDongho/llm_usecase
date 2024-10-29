@@ -89,7 +89,7 @@
 ## CLI 기반 소프트웨어
 
 - 아래 링크에서 더 다양한 도구를 탐색 할 수 있음
-	- https://github.com/topics/chatgpt
+- https://github.com/topics/chatgpt
 
 ### Chatgpt Markdown Translator
 
