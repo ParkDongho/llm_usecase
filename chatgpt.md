@@ -75,6 +75,8 @@
 
 # Chatgpt API 활용하기
 
+## IDE와 통합
+
 - Chatgpt API를 활용하면 다양한 도구에서 gpt 모델을 통합하여 보다 다양한 기능을 사용 할 수 있음
 - 예제
 	- **Obsidian** : [use case](./obsidian.md)
