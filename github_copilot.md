@@ -9,3 +9,7 @@
 
 ![](https://github.githubassets.com/assets/hero-lg-6a98e47708e8.mp4)
 
+
+
+## IDE 통합
+- VSCode, IntelliJ, [Obsidian](obsidian.md#github-copilot) 등 다양한 환경 지원
