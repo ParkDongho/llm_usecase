@@ -8,7 +8,7 @@
 
 
 **문서 작성 도구(LLM 통합)**
-- [obsidian](docs_edit_obsidian.md)
+- [obsidian](obsidian.md)
 - [notion](notion.md) 업데이트 예정
 - [vscode]() 업데이트 예정
 - [intellij]() 업데이트 예정
