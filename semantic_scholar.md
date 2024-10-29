@@ -31,6 +31,7 @@ Semantic Scholar는 연구 논문 검색과 분석에 유용한 AI 기반 학술
 
 - https://github.com/anoopkcn/obsidian-reference-map
 - semantic scholar의 corpusId를 통해 obsidian에서 논문을 검색하고 Reference Map을 생성할 수 있는 플러그인
+- [참고](https://github.com/ParkDongho/llm_usecase/blob/master/obsidian.md#reference-map)
 
 ![](https://github.com/anoopkcn/obsidian-reference-map/blob/master/images/orm-demo.png?raw=true)
 
