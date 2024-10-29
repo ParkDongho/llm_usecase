@@ -94,5 +94,5 @@
 - 작성중인 노트를 ai(gpt3.0) 기반으로 자동 완성
 - 사용시 [github-copilot api]() 필요
 
-[demo video](https://github.com/Pierrad/obsidian-github-copilot/blob/master/.github/assets/example.gif?raw=true)
+![demo video](https://github.com/Pierrad/obsidian-github-copilot/blob/master/.github/assets/example.gif?raw=true)
 
