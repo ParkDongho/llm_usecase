@@ -97,4 +97,7 @@
 - open ai api를 활용하여 markdown을 번역해주는 도구
 
 
+## 직접 개발하기
+- api reference 참고할것 
+- https://platform.openai.com/docs/api-reference/introduction
 
