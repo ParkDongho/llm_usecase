@@ -26,6 +26,7 @@
 - https://github.com/samuele-cozzi/obsidian-marp-slides
 - markdown을 활용하여 Slide를 작성 할 수 있도록 하는 도구
 
+![](https://github.com/samuele-cozzi/obsidian-marp-slides/raw/main/docs/pictures/CreateSlides.gif)
 
 ### Diagrams
 
