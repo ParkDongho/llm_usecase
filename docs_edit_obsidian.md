@@ -80,7 +80,7 @@
 - https://github.com/logancyang/obsidian-copilot
 - Obsidian 내부의 오픈소스 LLM 인터페이스
 
-![demo video](https://www.youtube.com/watch?v=WxcBEXkQoSE)
+[demo video](https://www.youtube.com/watch?v=WxcBEXkQoSE)
 
 
 
