@@ -55,6 +55,26 @@
 ## AI 기반 확장 플러그인
 
 
+### copilot
+
+- https://github.com/logancyang/obsidian-copilot
+- Obsidian 내부의 오픈소스 LLM 인터페이스
+
+[demo video](https://www.youtube.com/watch?v=WxcBEXkQoSE)
+
+
+### github-copilot
+
+- https://github.com/Pierrad/obsidian-github-copilot
+- obsidian과 [github copilot](github_copilot)과의 통합
+- 작성중인 노트를 ai(gpt3.0) 기반으로 자동 완성
+- 사용시 [github-copilot api]() 필요
+
+![demo video](https://github.com/Pierrad/obsidian-github-copilot/blob/master/.github/assets/example.gif?raw=true)
+
+
+
+
 ### textgenerator-plugin
  
 - https://github.com/nhaouari/obsidian-textgenerator-plugin
@@ -75,25 +95,3 @@
 	- ![](https://github.com/brianpetro/obsidian-smart-connections/blob/main/assets/SCv2-Smart-View-dark.gif?raw=true)
 - **Smart Chat**: 현재 작성중인 노트를 기반으로 하는 AI 대화로, 노트 작성과 브레인스토밍을 혁신적으로 지원. 
 	- ![](https://github.com/brianpetro/obsidian-smart-connections/blob/main/assets/smart-connections-chat-who-am-i.gif?raw=true)
-
-### copilot
-
-- https://github.com/logancyang/obsidian-copilot
-- Obsidian 내부의 오픈소스 LLM 인터페이스
-
-[demo video](https://www.youtube.com/watch?v=WxcBEXkQoSE)
-
-
-
-
-
-
-### github-copilot
-
-- https://github.com/Pierrad/obsidian-github-copilot
-- obsidian과 [github copilot](github_copilot)과의 통합
-- 작성중인 노트를 ai(gpt3.0) 기반으로 자동 완성
-- 사용시 [github-copilot api]() 필요
-
-![demo video](https://github.com/Pierrad/obsidian-github-copilot/blob/master/.github/assets/example.gif?raw=true)
-
