@@ -21,7 +21,7 @@ Semantic Scholar는 연구 논문 검색과 분석에 유용한 AI 기반 학술
 - 추가로, 탑티어 conference, journal, letter, magazine 목록에 대한 필터를 추가하는 것도 도움이 됨.
 - 컨퍼런스/저널 검색 시 참고할 수 있는 사이트
 	- http://www.conferenceranks.com
-	- https://jcr.clarivate.com/jcr/home
+	- https://jcr.clarivate.com/jcr/home (라이센스 필요, 교내 ip로 접속 할 것)
 	- https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng
 
 
