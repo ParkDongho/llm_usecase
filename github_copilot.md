@@ -12,4 +12,4 @@
 
 
 ## IDE 통합
-- VSCode, IntelliJ, [Obsidian](obsidian.md#github-copilot) 등 다양한 환경 지원
+- VSCode, IntelliJ, [Obsidian](./obsidian.md#github-copilot) 등 다양한 환경 지원
