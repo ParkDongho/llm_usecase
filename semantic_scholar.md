@@ -37,3 +37,5 @@ Semantic Scholar는 연구 논문 검색과 분석에 유용한 AI 기반 학술
 ## Readings
 
 - https://wikidocs.net/128389
+- https://en.wikipedia.org/wiki/Semantic_Scholar
+- https://www.semanticscholar.org/product/tutorials
