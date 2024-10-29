@@ -2,9 +2,9 @@
 
 **AI 기반 도구**
 
-- [chatgpt](chatgpt.md)
-- [github copilot](github_copilot.md)
-- [semantic_scholar](semantic_scholar.md)
+- [chatgpt](chatgpt.md) 
+- [github copilot](github_copilot.md) : AI 기반 코드 자동 완성
+- [semantic_scholar](semantic_scholar.md) : AI 기반 논문 탐색 사이트
 
 
 **문서 작성 도구(LLM 통합)**
