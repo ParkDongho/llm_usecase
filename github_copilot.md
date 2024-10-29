@@ -12,4 +12,4 @@
 
 
 ## IDE 통합
-- VSCode, IntelliJ, [Obsidian](https://github.com/ParkDongho/llm_usecase/blob/master/obsidian.md#github-copilot) 등 다양한 환경 지원
+- Nvim, [Obsidian](https://github.com/ParkDongho/llm_usecase/blob/master/obsidian.md#github-copilot), VSCode, IntelliJ 등 다양한 환경 지원
