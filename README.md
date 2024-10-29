@@ -1,5 +1,8 @@
 # llm_usecase
 
+연구자를 위한 LLM 사용 가이드
+
+
 **AI 기반 도구**
 
 - [chatgpt](chatgpt.md) 
