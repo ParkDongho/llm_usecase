@@ -1,0 +1,11 @@
+
+# GitHub Copilot
+
+- https://github.com/features/copilot
+- AI 기반 코드 자동 완성 도구
+- gpt4 기반
+- 구독 필요
+	- GitHub Education(학생 및 교직원) 계정 보유 시 무료 사용 가능 
+
+![](https://github.githubassets.com/assets/hero-lg-6a98e47708e8.mp4)
+
