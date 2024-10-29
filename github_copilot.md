@@ -7,7 +7,7 @@
 - 구독 필요
 	- GitHub Education(학생 및 교직원) 계정 보유 시 무료 사용 가능 
 
-![](https://github.githubassets.com/assets/hero-lg-6a98e47708e8.mp4)
+[demo video](https://github.githubassets.com/assets/hero-lg-6a98e47708e8.mp4)
 
 
 
